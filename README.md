@@ -2,7 +2,7 @@
 
 Submitted by: **Karar Al-Rehaief**
 
-**ColorChanger** is an app that... [displays three labels and a button, and changes the background color of the app when the button is pressed.] 
+**ColorChanger** is an app that displays three labels and a button, and changes the background color of the app when the button is pressed.
 
 Time spent: **8** hours spent in total
 
@@ -26,8 +26,7 @@ YouTube - Save videos, rewatch videos from history
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I had a little difficulty pairing the button to the code, but I restarted the project over again and it worked.
+I had a little difficulty pairing the button to the code, but I realized I had to change the button to an action and then it worked!
 
 ## License
 

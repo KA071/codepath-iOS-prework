@@ -19,6 +19,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/62e3d63d6f4f4d41a880126d878c2713">
+    </a>
+    <a href="https://www.loom.com/share/62e3d63d6f4f4d41a880126d878c2713">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/62e3d63d6f4f4d41a880126d878c2713-with-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 Goodnotes - Folders, upload PDFs
 Notion - Todo list, progress tables
